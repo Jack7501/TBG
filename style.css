@@ -36,6 +36,10 @@ nav li {
     background-color: #F07B55;
 }
 
+nav a{
+    color: #FFFFFF;
+}
+
 main section{
     max-width: 960px;
     margin: 0 auto 30px;
