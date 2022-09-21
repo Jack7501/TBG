@@ -20,7 +20,8 @@ header {
 
 header h1 {
     font-size: 32px;
-    color: #F07B55;
+    color: white;
+    text-align: center;
 }
 
 nav {
@@ -33,4 +34,15 @@ nav li {
     display: inline-block;
     padding: 0.5em 1em;
     background-color: #F07B55;
+}
+
+main section{
+    max-width: 960px;
+    margin: 0 auto 30px;
+}
+
+main p{
+    font-size: 16px;
+    color: white;
+    line-height: 1.5em;
 }
