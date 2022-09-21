@@ -20,8 +20,8 @@ header {
 
 header h1 {
     font-size: 32px;
-    color: white;
-    text-align: center;
+    color: #FFFFFF;
+    position: center;
 }
 
 nav {
@@ -43,6 +43,6 @@ main section{
 
 main p{
     font-size: 16px;
-    color: white;
+    color: #FFFFFF;
     line-height: 1.5em;
 }
