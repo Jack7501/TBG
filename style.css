@@ -10,11 +10,23 @@ body {
 }
 
 header {
-   background-color: #48677F;
+   background-color: #243A52;
    color: #F07B55;
    padding: 24px;
    display: flex;
    align-items: center;
     position: sticky;
     top: 0;
+}
+
+nav {
+    background-color: #48677F;
+    padding: 12px 12px 12px 20px;
+    border-bottom: 1px solid #F1F3F4;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background-color: #F07B55;
 }
