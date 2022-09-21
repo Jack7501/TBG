@@ -10,13 +10,17 @@ body {
 }
 
 header {
-   background-color: #243A52;
-   color: #F07B55;
+    background-color: #243A52;
    padding: 24px;
    display: flex;
    align-items: center;
     position: sticky;
     top: 0;
+}
+
+header h1 {
+    font-size: 32px;
+    color: #F07B55;
 }
 
 nav {
